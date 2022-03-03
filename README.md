@@ -1,6 +1,6 @@
 - 👋 Hola, mi nombre es Erwin Contreras.
 - 👀 Me interesa la creación de interfaces dinamicas, que tengan una buena estética, animaciones y que sean intuitivas para los usuarios.
-- 🌱 Por ahora estoy aprendiendo HTML, CCS, Javascript, entre otras cosas.
+- 🌱 Por ahora estoy aprendiendo HTML, CCS, Javascript, NodeJS, PostgreSQL, entre otras cosas.
 
 <!---
 erwin-cc/erwin-cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

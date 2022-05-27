@@ -1,7 +1,7 @@
 ## 👨‍💻 Sobre Mi
 
 - 👋 Hola, mi nombre es Erwin Contreras.
-- 🌱 Tengo conocimientos de HTML, CCS, Javascript (ES5 y ES6), Git, NodeJS + Express y PostgreSQL, entre otras cosas.
+- 🌱 Tengo conocimientos de HTML, CCS, Javascript (ES5 y ES6), jQuery, Git, NodeJS + Express y PostgreSQL, entre otras cosas.
 - 💡 Me interesa generar plataformas con interfaces dinamicas, que tengan una buena estética, que incluyan animaciones, que sean intuitivas y sobre todo, que sean eficientes, de modo que la experiencia del usuario sea óptima.
 
 ## 💻 Acá puedes ver algunos proyectos interesantes que he realizado:

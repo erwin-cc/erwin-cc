@@ -7,7 +7,7 @@
 ## 💻 Acá puedes ver algunos proyectos interesantes que he realizado:
 [- Práctica de transiciones con CSS y JS.](https://erwin-cc.github.io/Practica_de_transiciones/)
 
-[- Aplicación Web Cachipún (Uso de CSS y codificación en JS).](https://github.com/erwin-cc/cachipun)
+[- Aplicación Web Cachipún (Uso de CSS y codificación en JS).](https://erwin-cc.github.io/cachipun/)
 
 [- API REST Roommates (Creación de una API REST + Codificación en JS.)](https://roommates-tdigital.herokuapp.com/)
 

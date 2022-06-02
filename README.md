@@ -13,8 +13,6 @@
 
 [- API REST Roommates (Creación de una API REST + Codificación en JS.)](https://roommates-tdigital.herokuapp.com/)
 
-<a href="https://skatepark-tdigital.herokuapp.com/" target="_blank">Skatepark</a>
-
 
 
 ## 📭 Contacto:
